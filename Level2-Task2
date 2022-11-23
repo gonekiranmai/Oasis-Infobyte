@@ -1,0 +1,106 @@
+HTML CODE :
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>A Tribute Page</title>
+</head>
+<body>
+    <div id="main">
+        <h1 id="title">Y.S.Rajasekhara Reddy</h1>
+        <p>Our country lost a legendary politician on 2 September 2009.</p>
+        <div id="img_div">
+            <img src="YSR.jpg" alt="" id="image">
+            <figcaption>YSR popularly known as YSR, was the 14th chief minister of the Indian state of Andhra Pradesh, serving from 2004 to 2009.</figcaption>
+        </div>
+        <div id="tribute-info">
+            <h3>Here's a time line of Y.S.Rajasekhara Reddy</h3>
+            <ul>
+                <li>
+                    Yeduguri Sandinti Rajasekhara Reddy (YSR) was born on 8 July 1949 into a Christian middle class family. 
+                </li>
+                <li>He was eldest of five sons for Y. S. Raja Reddy, at Pulivendula. Rajasekhara Reddy completed his medical studies in Mahadevappa Rampure Medical College, Gulbarga, Karnataka.</li>
+                <li>And he served as medical officer at CSI-Campbell Mission Hospital, Jammalamadugu, Kadapa district, Andhra Pradesh after completing his studies. In 1973, he established a 70-bed charitable hospital before entering politics.His father Raja Reddy was killed in a bomb attack on 23 May 1998. </li>
+                <li>Reddy was married to Vijaya Lakshmi.[14] They had one son, politician Y. S. Jagan Mohan, and one daughter, Y. S. Sharmila.Reddy's younger brother Y. S. Vivekananda is also a Congress politician.</li>
+                <li>Reddy entered active politics in 1978 and won the Pulivendula constituency same year and became Minister of State for Rural Development (1980–82), and later shifted to Excise Minister (1982) and Education Minister (1982–83). He continued to retain the same constituency in 1983 and 1985, even when Nandamuri Taraka Rama Rao swept to power and the party fared badly in the latter, which saw Indira Gandhi making him State president of the party.</li>
+                <li>He even continued the winning streak for Kadapa constituency for four terms in 9th, 10th, 11th, and 12th Lok Sabha. His return to state politics saw him winning 1999 Assembly elections from same Pulivendula constituency during which he served as Leader of Opposition in Andhra Pradesh State Assembly (1999–2004), but his subsequent winning in 2004 Assembly elections saw him sworn in as 14th Chief Minister of Andhra Pradesh serving full-term. He won 2009 Assembly elections and continued his tenure as 15th Chief Minister of Andhra Pradesh, which was abruptly cut short by his death on 2 September 2009.</li>
+                <li>During his tenure as Chief Minister, the government of Andhra Pradesh undertook the following projects:
+
+                    On the first day of his tenure in 2004, he provided free electricity for farmers, a campaign project.
+                    A health insurance program for rural people living below the poverty line (white card holders), known as Rajiv Arogya Shree, was instituted to pay the entire cost of any necessary surgery up to a maximum of ₹200,000 (US$2,500).
+                    A free public ambulance service was originally started by Satyam and then adopted by Andhra Pradesh.
+                    The Pavala Vaddi program provided loans at 3% interest to encourage small businesses and entrepreneurship by rural women.
+                    Indiramma illu was a program started to construct heavily subsidised housing for the rural poor.
+                    A rice scheme provided a kilogram of rice for two rupees to reduce hunger.The minimum support price for rice was also raised.
+                    Full reimbursement of college tuition for the underprivileged and reservations for minorities were instituted.
+                    The main emphasis during Reddy's tenure was on social welfare, with a majority of his projects targeted at reducing rural poverty. Apart from these schemes, his government was a role model in implementing the central government's flagship program NREGA.[25]
+                    His tenure also saw the significant weakening of the violent extremist left-wing Naxalite movement that was rampant in the state when he assumed office in 2004</li>
+                <li>He commenced the Jala Yagnam project to irrigate 4,000,000 hectares (10,000,000 acres) of land through the construction of major, medium and minor irrigation projects.It helped Andhra Pradesh make significant progress in sustainable agriculture by making wastelands cultivatable.</li>
+                <li>Reddy was accused of amassing large amounts of money during his tenure as the Chief Minister.He is said to have used populist schemes like irrigation projects and housing schemes to his advantage and earn huge profits through them.</li>
+                <li>Reddy's Bell 430 helicopter went missing on Wednesday, 2 September 2009 at 9:35 am. Begumpet and Shamshabad air traffic controllers lost contact with the aircraft at 10:02 am while it was passing through the dense Nallamala forest area.The Chief Secretary of Andhra Pradesh, P. Ramakanth Reddy, said that inclement weather had forced the helicopter off course.Although the sparsely populated forest area is considered to be a stronghold of the outlawed Naxal communist insurgents, the National Security Advisor of India ruled out the possibility of the Naxals bringing down the helicopter.</li>
+                <li>The Indian Prime Minister's Office confirmed the helicopter's crash on the morning of 3 September, Thursday, and the death of all aboard, namely Reddy, his Special Secretary P. Subrahmanyam, Chief Security Officer A. S. C. Wesley, Group Captain S. K. Bhatia and Captain M. S. Reddy.The Director General of Police said that the bodies were charred beyond recognition and had to be identified on the basis of clothing.The autopsy of all the bodies was carried out at Kurnool Medical College.</li>
+                <li>A Telugu television station, NTV, reported that as many as 122 people died of shock or committed suicide upon hearing the news of Reddy's death, many of whom were young supporters or those who benefited from his social welfare schemes. This was not, however, independently confirmed.</li>
+                <li>On 8 July 2010, the Government of Andhra Pradesh renamed the Kadapa district as YSR district in honour of Reddy, who was a native of that district.[51][52]
+                    On 14 Sep 2009, the Andhra Cricket Association renamed ACA-VDCA cricket stadium as Dr. Y. S. Rajasekhara Reddy ACA-VDCA Cricket Stadium .
+                    In 2020, the Andhra Pradesh Government declared YSR jayanti to be celebrated as Farmer's Day on 8th of July every year.</li>
+            </ul>  
+        </div>
+        <h5>On 2 September 2009, a helicopter carrying Reddy went missing in the Nallamala Forest area.[5] The next morning media reported that the helicopter wreckage had been found on top of Rudrakonda Hill, 40 km (25 mi) from Kurnool. The five people aboard were pronounced dead at the scene of the crash.Over a hundred people were reported to have committed suicide on hearing the news of his death.</h5>
+    </div>
+</body>
+</html>
+
+
+
+
+
+CSS CODE :
+
+
+
+#main{
+    max-width: 1280px;
+    max-height: 100%;
+    margin: 30px auto;
+    padding:15px;
+    background: #dddddd;
+    border-radius: 5px;
+}
+#title{
+    text-align: center;
+}
+#main > p{
+    text-align: center;
+}
+#img_div{
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #ffffff;
+    align-items: center;
+}
+#image{
+    display: block;
+    max-width: 100%;
+    padding-bottom: 10px;
+}
+#tribute-info{
+    max-width: 600px;
+    margin: 0 auto;
+}
+#tribute-info > h3{
+    text-align: center;
+}
+#tribute-info > ul li{
+    margin-bottom: 10px;
+    line-height: 30px;
+}
+h5{
+text-align: center;
+}
